@@ -102,7 +102,7 @@ Python 3.4.5
 NumPy 1.11.3
 SciPy 0.18.1
 geopy 1.14.0
-cdtw 1.11.0
+pyts 0.13.0
 """
 # Import the necessary libraries
 import sys
